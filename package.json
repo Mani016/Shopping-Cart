@@ -23,7 +23,7 @@
     "@angular/router": "~8.2.0",
     "@material/snackbar": "^3.1.0",
     "@ng-bootstrap/ng-bootstrap": "^5.1.1",
-    "angular": "^1.7.8",
+    "angular": "^1.8.3",
     "rx-subject": "^3.1.0",
     "rxjs": "^6.4.0",
     "rxjs-observable": "0.0.7",
